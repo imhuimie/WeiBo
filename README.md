@@ -124,7 +124,7 @@ A: 检查 Cookie 是否有效，网络连接是否正常
 
 ## 许可证
 
-MIT License
+[MIT License](LICENSE)
 
 ## 作者
 
